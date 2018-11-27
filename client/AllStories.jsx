@@ -24,4 +24,4 @@ export default class AllStories extends Component {
   }
 }
 
-//Test
+//Test2
