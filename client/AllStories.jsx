@@ -23,3 +23,5 @@ export default class AllStories extends Component {
     return <Stories allstories={this.state.stories} />;
   }
 }
+
+//Test
